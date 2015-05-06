@@ -6,7 +6,7 @@ Most of this assignment is getting your laptop ready for Day 1 by installing a f
 
 ## Requirements
 
-Click on this file in Github and use the __Raw__ button to see the unrendered Markdown text. If you copy and paste the text _as is_ from the __Tasks__ and __Deliverables__ sections below into the __Description__ of your issue, you should end up with a bunch of checkboxes, just like these, thanks to [the way that Github interprets Markdown](https://guides.github.com/features/mastering-markdown/). As you complete tasks, check off the corresponding checkboxes and what your progress bar fill! Read [Mastering Issues](https://guides.github.com/features/issues/) for more information on creating issues in Github.
+Click on this file in Github and use the __Raw__ button to see the unrendered Markdown text. If you copy and paste the text _as is_ from the __Tasks__ and __Deliverables__ sections below into the __Description__ of your issue, you should end up with a bunch of checkboxes, just like these, thanks to [the way that Github interprets Markdown](https://guides.github.com/features/mastering-markdown/). As you complete tasks, check off the corresponding checkboxes and let your progress bar fill! Read [Mastering Issues](https://guides.github.com/features/issues/) for more information on creating issues in Github.
 
 ### Tasks:
 
