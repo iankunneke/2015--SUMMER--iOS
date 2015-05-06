@@ -1,6 +1,6 @@
 ## About Assignments
 
-Each assignment will be delivered as a directory in this repo that contains a `README.md` file; for example, [the pre-class assignment: 00 -- This is Heavy](https://github.com/TheIronYard--Orlando/2015--SUMMER--iOS/tree/master/00--This-is-Heavy). This file will contain all the instructions for the assignment, a list of the minimal requirements, and a list of deliverables. If your work doesn't match the requirements or expected deliverables, it will be rejected. Over time, the assignments will provide fewer and fewer explicit instructions, as you will be expected to become familiar with the process. Similarly, the requirements and deliverables will be enforced more strictly.
+Each assignment will be delivered as a directory in this repo that contains a `README.md` file; for example, [the pre-class assignment: 00 -- This is Heavy](https://github.com/TheIronYard--Orlando/2015--SUMMER--iOS/tree/master/Homework/00--This-is-Heavy). This file will contain all the instructions for the assignment, a list of the minimal requirements, and a list of deliverables. If your work doesn't match the requirements or expected deliverables, it will be rejected. Over time, the assignments will provide fewer and fewer explicit instructions, as you will be expected to become familiar with the process. Similarly, the requirements and deliverables will be enforced more strictly.
 
 ## Turn-in Instructions
 
