@@ -4,13 +4,11 @@ Hello everyone! I'm excited to get started with class and I hope you are too. Ov
 
 ## This is Github
 
-### Welcome to Github!
-
 First, you need to [sign up for a free Github account](http://github.com/signup), find [the class project](https://github.com/TheIronYard--Orlando/2015--SUMMER--iOS) and "star" it ([more on "starring" and notifications](https://help.github.com/articles/about-stars)). Once you do, I'll invite you to [a group for our class](https://github.com/orgs/TheIronYard--Orlando/teams/2015-summer-ios), so watch for an email from Github!
 
 Next, get acquainted by poking around a bit, paying special attention to [the class wiki](https://github.com/TheIronYard--Orlando/2015--SUMMER--iOS/wiki). There's some important information there about how to turn in assignments and how I'll grade them. Afterward, get started on **This is Heavy**, _due the first day of class_.
 
-You will notice a series of folders with numbers in their titles in the repo. This is where all homework assignments, notes, the day's agenda, etc. will be posted. We will have one folder for each lecutre day. Some will contain actual Xcode projects while others will be just some source code and/or tips/hints used to solve the problem at hand. *00 -- This is Heavy* is the first assignment and it will be due at midnight June 14th, the night before our class starts. Please be sure to get it done before class. It will allow us to get right to building apps!
+You will notice a series of folders with numbers in their titles in the repo. This is where all homework assignments, notes, the day's agenda, etc. will be posted. We will have one folder for each lecutre day. Some will contain actual Xcode projects while others will be just some source code and/or tips/hints used to solve the problem at hand.
 
 Throughout the course, you'll open, close, and contribute to Issues and Pull Requests ([more about "issues" on Github](https://help.github.com/articles/about-issues)). By the end, you'll all be Github experts!
 
