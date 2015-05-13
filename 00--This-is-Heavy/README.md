@@ -41,6 +41,7 @@ Click on this file in Github and use the __Raw__ button to see the unrendered Ma
 * [ ] Watch _The Long Run_ Videos on [Delve.tv](http://delve.tv)
    * [ ] [_The Long Game_, part 1](http://delve.tv/the-long-game-part-one/)
    * [ ] [_The Long Game_, part 2](http://delve.tv/the-long-game-part-2/)
+* [ ] Look at the Prework-A file for instructions on how to complete the Counter app.
 
 ### Deliverables:
 
@@ -56,6 +57,7 @@ Click on this file in Github and use the __Raw__ button to see the unrendered Ma
   * [ ] `TIY-Assignments`
   * [ ] `Fork-and-Spoon`
   * [ ] Attached image from the Dash preference pane for installed docsets
+* [ ] A completed Counter app project, added to your TIYAssignments repo
 
 ## Extracurricular Activities
 
